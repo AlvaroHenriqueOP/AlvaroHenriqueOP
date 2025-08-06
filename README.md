@@ -1,5 +1,9 @@
 ## Olá, me chamo Álvaro Henrique e sou Desenvolvedor Front-End! 👋
 
+<div align="left"> Meu foco é a criação de interfaces digitais modernas e interativas, utilizando principalmente React, TypeScript e Next.js.  Busco sempre aprimorar minhas habilidades e estou aberto a novas oportunidades e desafios na área de desenvolvimento web.</div>
+
+##
+
 <div align="center">
   <a href="https://github.com/alvarohenriqueop">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroHenriqueOP&count_private=true&show_icons=true&theme=onedark"/>
@@ -14,8 +18,7 @@
 <img align="center" alt="Alvaro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Alvaro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Alvaro-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-<img align="center" alt="Alvaro-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-          
+<img align="center" alt="Alvaro-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />        
 </div>
 
 ##
